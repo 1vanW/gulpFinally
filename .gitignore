@@ -4,5 +4,6 @@
 # package-lock.json
 # package.json
 # src/
+dist/
 node_modules/
 .idea/
